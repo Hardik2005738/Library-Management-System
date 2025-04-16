@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Library-Management-System
-=======
 # Library-Management-Project
 
 A console application made in C++ using Concepts of OOPS and File Handling.
@@ -13,4 +10,3 @@ It maintains records of students and books where admin can :
 
 The library section deals with issuing and deposotong of books and calculating fine accordingly.
 
->>>>>>> 45549ab (Initial Commit)
